@@ -1,6 +1,6 @@
 
 # PJATK_PPJ
-## Ćwiczenia z przedmiotu ppj na pjatk
+## Ćwiczenia z przedmiotu "Podstawy programowania w javie (PPJ)" na PJATK
 
 ﻿<div align="center">
 ![pobrane (1)](https://github.com/oskarklkt/PJATK_PPJ/assets/117487714/e61ab832-e052-4b93-9d11-96339d6723ec)
