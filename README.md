@@ -155,6 +155,8 @@ Napisz program pobierający od użytkownika parametry dwóch prostokątów A, B 
 ### Ćwiczenie 09.02
 Utwórz program który pozwoli wprowadzić z klawiatury wartość size i wyświetli na ekranie poniższy znak o rozmiarze (2*size+1) na (2*size+1):
 
+![image](https://github.com/oskarklkt/PJATK_PPJ/assets/117487714/a0713a9c-27ea-4cb5-9c98-1f3f2542c829)
+
 Przedstaw rozwiązanie nie używające tablic.
 
 ### Ćwiczenie 09.03
