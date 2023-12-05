@@ -53,13 +53,15 @@ Przedstaw wykorzystanie tej klasy na przykładzie.
 
 ### Ćwiczenie 05.01
 Utwórz klasę Point2D zawierającą pola opisane jako x i y, oraz:
-- rezultatową metodę get dostarczającą wartość typu String prezentującą wartości x, y oraz 1  każda w nowej linii np:
+  1.  rezultatową metodę get dostarczającą wartość typu String prezentującą wartości x, y oraz 1  każda w nowej linii np:
+  
   x 
 
   y
 
   1
-- bezrezultatową metodę set ustalającą współrzędne x, y na podstawie dostarczonych argumentów
+  
+  2. bezrezultatową metodę set ustalającą współrzędne x, y na podstawie dostarczonych argumentów
 
 ### Ćwiczenie 05.02
 Utwórz klasę Square z prywatnym polem side. Zainicjuj pole w konstruktorze. Dodaj metodę show i toString wyświetlające:
