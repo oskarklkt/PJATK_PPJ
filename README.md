@@ -172,6 +172,19 @@ Utwórz program odczytujący wprowadzoną z klawiatury wartość rzeczywistą wy
 
 ---
 
+### Ćwiczenie 10.01
+Zadeklaruj tablicę zmiennych typu char i wypełnij ją trzema dowolnymi znakami. Następnie używając pętli przeanalizuj tablicę i wskaż indeks elementu o najmniejszej wartości.
+
+### Ćwiczenie 10.02
+Przygotuj i wypełnij wartościami dwie tablice liczb opisujących współrzędne x i y pewnego zbioru punktów na płaszczyźnie. 
+Następnie wylicz najmniejszy prostokąt zawierający wszystkie punkty i wyświetl na ekranie współrzędne środka, wysokość i szerokość.
+
+### Ćwiczenie 10.03
+Dana jest n-elementowa tablica (posortowana niemalejąco) liczb całkowitych, gdzie n >= 2. 
+Napisz program zliczający ile jest różnych wartości w podanej tablicy.
+Przykład: w tablicy {1, 1, 2, 3, 3} występują trzy różne wartości 1, 2, 3.
+
+---
 
 
 
