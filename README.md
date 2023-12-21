@@ -186,6 +186,32 @@ Przykład: w tablicy {1, 1, 2, 3, 3} występują trzy różne wartości 1, 2, 3.
 
 ---
 
+### Ćwiczenie 11.01
+Dana jest tablica:
+
+    int[][] tab = {
+
+    	{1, 0, 0, 0, 0},
+
+    	{0, 1, 0, 0},
+
+    	{0, 0, 1}
+
+    };
+
+Napisz program, który zamieni tab na tablicę jednowymiarową, zawierającą wszystkie elementy zawarte wewnątrz tablicy dwuwymiarowej.
+
+### Ćwiczenie 11.02
+Przygotuj prostokątną tablicę (o losowych wymiarach naturalnych dodatnich) zmiennych typu int i wypełnij ją losowymi wartościami z przedziału [0,10). Utwórz i wyświetl nową tablicę powstającą z tablicy wejściowej poprzez usunięcie duplikatów z każdego wiersza (pozostawiając tylko jedno wystąpienie każdej wartości), zachowując jednocześnie kolejność wystąpień.
+
+### Ćwiczenie 11.03
+Zadeklaruj zmienną size określającą wielkość obu wymiarów tablicy dwuwymiarowej. Poczym:
+
+wylosuj parę liczb z przedziału -(0.2*size) do (1.2*size) i zapisz je w zmiennych x oraz y, które będą opisywać indeksy w tablicy;
+dokonaj sprawdzenia, czy wylosowane indeksy znajdują się we wnętrzu tablicy tj. nie wychodzą poza jej obszar. Jeżeli okaże się że współrzędne wychodzą poza obszar tablicy wyświetl komunikat coordinates outside array range(x,y);
+Powyższe operacje powtarzaj aż uzyskasz 20 przypadków niepoprawnych współrzędnych.
+
+---
 
 
 
